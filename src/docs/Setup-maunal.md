@@ -1,4 +1,4 @@
-# Inc Site SPA Template 
+# React Vite and Vitest
 
 This project was bootstrapped with [Vite](https://vitejs.dev/guide/) + [React](https://stackblitz.com/edit/vitejs-vite-5hwepw?file=index.html&terminal=dev)
 
